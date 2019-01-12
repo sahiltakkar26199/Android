@@ -2,8 +2,8 @@ package com.example.sahil.myapplication;
 
 public class User {
 
-    private static String name;
-    private static int age;
+    private  String name;
+    private  int age;
 
 
     public User(String name , int age){

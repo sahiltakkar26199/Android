@@ -9,15 +9,16 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import java.util.HashMap;
 import java.util.List;
 
 
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.MyViewHolder> {
 
-    private List<User> userList;
+    private List<HashMap<String,String>> userList;
     Context context;
 
-    public RecyclerViewAdapter(List<User> list, Context context){
+    public RecyclerViewAdapter(List<HashMap<String,String>> list, Context context){
         userList=list;
         this.context = context;
     }
@@ -33,10 +34,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int i) {
-        User current=userList.get(i);
-        String name=current.getName();
+        HashMap<String,String> current=userList.get(i);
+        String name=current.get("name");
 
-        String age=String.valueOf(current.getAge());
+        String age=String.valueOf(current.get("age"));
         holder.nameView.setText(name);
         holder.ageView.setText(age);
     }
