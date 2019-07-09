@@ -1,4 +1,0 @@
-#Thu Jan 17 18:43:47 IST 2019
-base.0=/home/sahil/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dexMerger/debug/7
-path.0=classes.dex
-renamed.0=classes.dex
