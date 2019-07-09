@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9cfc87c59875a2dfa265d66ec52b9f59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3f0daa4799bb2d8a44f0787497d81eb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e749f1e32751d128e77b6432b606e47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sahil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c14073b2f0b7fc3c4b70d3d5265c424/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/69c40f1e45c8c958a72945edb7b26a49/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/27e9e3be6884e9c1c32e27d3ea801183/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c4dfaec12c7a35b65440cae986afa9e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5befd57e1d8eb92e5a4ed9ba09e237cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b08245a73881646fb90bbd95e298a4b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c963dd18164015d9b0d8ca5e84c30ffe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/274650ead4ab0b822fdded51db27f396/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/34d5010a58cb7143e11a704798c73cd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/5f77103a265aff6c04ba1401a5d5fed9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b970ddf5c8ede9a0d6de1ea720b3b7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/662468ec4d0eac0de410efd2ab107a05/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b3266dab795533bb3847cd5b09baf0f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/47747b0d466372f50ad1df33c7c9afcf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6f371cfdd6e01e2b50ad72919549f369/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/86630e79386e1e0d8c18d18d7c6a47a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/f25dbfe422df9351f40c13d5a4e041ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/9b2d93149558cf970e7f6ba6d85b530e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8cfa08487940dd16b9c28592bebba03e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:7:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sahil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c14073b2f0b7fc3c4b70d3d5265c424/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sahil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c14073b2f0b7fc3c4b70d3d5265c424/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.sahiltakkar.moviesapp.UI.MainActivity
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:14:9-19:20
+	android:name
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:14:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.sahiltakkar.moviesapp.UI.MovieDetailsActivity
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:20:9-24:20
+	android:parentActivityName
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:22:13-58
+	android:label
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:21:13-42
+	android:launchMode
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:23:13-43
+	android:name
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:20:19-58
+activity#com.example.sahiltakkar.moviesapp.UI.FavouritesActivity
+ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:25:9-29:20
+	android:parentActivityName
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:27:13-58
+	android:label
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:26:13-39
+	android:launchMode
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:28:13-43
+	android:name
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml:25:19-56
+uses-sdk
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9cfc87c59875a2dfa265d66ec52b9f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9cfc87c59875a2dfa265d66ec52b9f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3f0daa4799bb2d8a44f0787497d81eb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3f0daa4799bb2d8a44f0787497d81eb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e749f1e32751d128e77b6432b606e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e749f1e32751d128e77b6432b606e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sahil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c14073b2f0b7fc3c4b70d3d5265c424/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sahil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c14073b2f0b7fc3c4b70d3d5265c424/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/69c40f1e45c8c958a72945edb7b26a49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/69c40f1e45c8c958a72945edb7b26a49/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/27e9e3be6884e9c1c32e27d3ea801183/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/27e9e3be6884e9c1c32e27d3ea801183/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c4dfaec12c7a35b65440cae986afa9e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c4dfaec12c7a35b65440cae986afa9e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5befd57e1d8eb92e5a4ed9ba09e237cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5befd57e1d8eb92e5a4ed9ba09e237cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b08245a73881646fb90bbd95e298a4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b08245a73881646fb90bbd95e298a4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c963dd18164015d9b0d8ca5e84c30ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c963dd18164015d9b0d8ca5e84c30ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/274650ead4ab0b822fdded51db27f396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/274650ead4ab0b822fdded51db27f396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/34d5010a58cb7143e11a704798c73cd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/34d5010a58cb7143e11a704798c73cd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/5f77103a265aff6c04ba1401a5d5fed9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/5f77103a265aff6c04ba1401a5d5fed9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b970ddf5c8ede9a0d6de1ea720b3b7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b970ddf5c8ede9a0d6de1ea720b3b7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/662468ec4d0eac0de410efd2ab107a05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/662468ec4d0eac0de410efd2ab107a05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b3266dab795533bb3847cd5b09baf0f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b3266dab795533bb3847cd5b09baf0f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/47747b0d466372f50ad1df33c7c9afcf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/47747b0d466372f50ad1df33c7c9afcf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6f371cfdd6e01e2b50ad72919549f369/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6f371cfdd6e01e2b50ad72919549f369/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/86630e79386e1e0d8c18d18d7c6a47a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/86630e79386e1e0d8c18d18d7c6a47a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/f25dbfe422df9351f40c13d5a4e041ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/f25dbfe422df9351f40c13d5a4e041ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/9b2d93149558cf970e7f6ba6d85b530e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/9b2d93149558cf970e7f6ba6d85b530e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8cfa08487940dd16b9c28592bebba03e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8cfa08487940dd16b9c28592bebba03e/AndroidManifest.xml:20:5-44
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sahil/AndroidStudioProjects/MoviesApp/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/sahil/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba97ef48d678940b7761a167426a6355/AndroidManifest.xml:24:13-83
